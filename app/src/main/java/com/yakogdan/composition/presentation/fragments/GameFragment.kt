@@ -11,7 +11,6 @@ import com.yakogdan.composition.domain.entities.GameResult
 import com.yakogdan.composition.domain.entities.GameSettings
 import com.yakogdan.composition.domain.entities.Level
 
-
 class GameFragment : Fragment() {
 
     private lateinit var level: Level
